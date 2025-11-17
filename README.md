@@ -91,29 +91,8 @@
 
 ---
 
-##  **Kullandığım araçlar ve işletim sistemleri**
-
-<div align="left">
-
-<table>
-<tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br/>
-<b>Linux</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/>
-<b>Git</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/>
-<b>GitHub</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br/>
+🛠️ Kullandığım Araçlar ve İşletim Sistemleri
+<table> <tr> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/><br/> <b>Linux</b> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/><br/> <b>Git</b> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/><br/> <b>GitHub</b> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/><br/> <b>Docker</b> </td> <td align="center" width="110"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50"/><br/> <b>Windows</b> </td> </tr> </table>
 <b>Docker</b>
 </td>
 
