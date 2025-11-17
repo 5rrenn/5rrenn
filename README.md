@@ -91,7 +91,7 @@
 
 ---
 
-##  **KUllandığım araçlar**
+##  **Kullandığım araçlar ve işletim sistemleri**
 
 <div align="left">
 
