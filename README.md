@@ -1,11 +1,8 @@
-# **Merhaba dost.**
-
-
 # **Kullandığım Diller**
 
 <div align="center">
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border-spacing: 12px;">
 <tr>
 
 <td align="center" width="120">
@@ -43,17 +40,32 @@
 <div>Ruby</div>
 </td>
 
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45"/>
+<div>C++</div>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+<div>C</div>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="45"/>
+<div>Rust</div>
+</td>
+
 </tr>
 </table>
 
 </div>
 
-
 # **Frameworkler ve Teknolojiler**
 
 <div align="center">
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border-spacing: 12px;">
 <tr>
 
 <td align="center" width="120">
@@ -86,17 +98,37 @@
 <div>Electron</div>
 </td>
 
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45"/>
+<div>Node.js</div>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<div>React</div>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="45"/>
+<div>Vue.js</div>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45"/>
+<div>Express</div>
+</td>
+
 </tr>
 </table>
 
 </div>
 
-
 # **Kullandığım Araçlar ve İşletim Sistemleri**
 
 <div align="center">
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border-spacing: 12px;">
 <tr>
 
 <td align="center" width="120">
@@ -124,7 +156,24 @@
 <div>Windows</div>
 </td>
 
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<div>VS Code</div>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="45"/>
+<div>Arch Linux</div>
+</td>
+
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45"/>
+<div>Bash</div>
+</td>
+
 </tr>
 </table>
 
 </div>
+
