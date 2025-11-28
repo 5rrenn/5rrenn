@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://cdn.discordapp.com/banners/1430166552778375250/a_de6a838eacc55e159f05cb0f278e19b5.gif?size=1024" alt="Banner" width="100%"/>
+</div>
+
 # My Career :)
 
 **Roblox Development**
