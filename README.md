@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./mydm.gif" alt="Banner" width="45%"/>
+  <img src="./mydm.gif" alt="Banner" width="11%"/>
 </div>
 
 # My Career :)
