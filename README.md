@@ -2,7 +2,7 @@
 
 **Roblox Development**
 - 3.1M+ place visits across projects
-- 3.1K concurrent users record
+- 3.1K CCU record
 - 13.5M total revenue (1.2M from trading)
 - Created one of the first Turkish hangout games
 - Known by major Turkish Roblox content creators (atkafası, geldibaskan, and others)
