@@ -25,7 +25,6 @@
 - **Onii Selfbot** - One of Discord's largest selfbot projects (original version, 2+ years old)
 - **Osinter** - Terabytes of Discord message data via automated AI analysis
 - **451** - Comprehensive tool server
-- **Lulz** - (.gg/lulz)
 
 
 ## Languages
